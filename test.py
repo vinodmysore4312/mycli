@@ -1,0 +1,3 @@
+import mycli
+
+mycli.main()
