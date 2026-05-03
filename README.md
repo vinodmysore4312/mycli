@@ -3,3 +3,6 @@
 
 ##Running CLI as tool 
 2.uv run mycli
+
+##Running through tool
+3.mycli
