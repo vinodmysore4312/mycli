@@ -5,4 +5,4 @@
 2.uv run mycli
 
 ##Running through tool
-3.mycli
+3.myclis
